@@ -1,0 +1,9 @@
+{
+	"name": "pruebapp",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "92d3a3ba-1ec6-4b99-93a0-65e3c110c9bd",
+		"tenantId": "60feea6a-5684-47b2-ba5d-2f2b347379f7"
+	}
+}
